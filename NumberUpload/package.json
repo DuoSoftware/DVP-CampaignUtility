@@ -9,7 +9,7 @@
     "config": "^1.14.0",
     "stringify": "^3.1.0",
     "moment": "^2.10.3",
-    "DVP-Common": "git+https://github.com/DuoSoftware/DVP-Common",
+    "dvp-common": "^0.8.4",
     "redis": "^0.12.1",
     "collections": "^1.2.3"
   },
