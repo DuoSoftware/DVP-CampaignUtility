@@ -2,7 +2,7 @@
  * Created by Rajinda on 6/26/2015.
  */
 var logger = require('DVP-Common/LogHandler/CommonLogHandler.js').logger;
-var DbConn = require('DVP-DBModels');
+var DbConn = require('dvp-dbmodels');
 var List = require("collections/list");
 var messageFormatter = require('DVP-Common/CommonMessageGenerator/ClientMessageJsonFormatter.js');
 
