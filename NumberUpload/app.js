@@ -5,7 +5,7 @@
 
 var xlsx2json = require("xlsx2json");
 var logger = require('DVP-Common/LogHandler/CommonLogHandler.js').logger;
-var DbConn = require('DVP-DBModels');
+var DbConn = require('db-models');
 var messageFormatter = require('DVP-Common/CommonMessageGenerator/ClientMessageJsonFormatter.js');
 var readline = require('readline');
 
